@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=640">
+    <title>Contact details&nbsp;&nbsp;&nbsp;, Victor Lebeau's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="../?/feed/">
+    <link rel="stylesheet" href="../public/docs/css/info.css" type="text/css" media="screen">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <link rel="icon" type="image/png" href="../public/favicon.png">
+
+
+  </head>
+  <body>
+
+    <div id="container">
+        <div id="content" class="col eight"> <p class="date col one"></p>
+          <h2 class="col six"><a href="../">Home &#8592;</a></h2>
+        </br>
+        </br>
+        <div class="description col ten">
+            </br>
+          <h2>Contact details&nbsp;&nbsp;&nbsp;</h2>
+          
+          <p></br>
+<a href="mailto:contact@victor-lebeau.com">contact@victor-lebeau.com</a></br>
+Born January the 27th 1990</p>
+
+<p>Phone : +33 6 08 18 81 23</p>
+
+<p>5 rue Bachelet 75018 Paris</p>
+
+<p></br></p>
+
+<iframe src='http://lite4.framapad.org/p/OJXW4YZAJb?showChat=false&showLineNumbers=false' width=600 height=400></iframe>
+
+          
+        </div>
+    </div>
+
+      <hr>
+      
+    </div>
+
+  </body>
+      <script type="text/javascript" charset="utf-8">
+         document.getElementsByTagName('body')[0].className += ' js-enabled';
+  </script>
+
+  <script src="../public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
+</html>
+
+
+
+<!-- Stacey(2.3.0): 9c2d202e7aae6950c9033163f7af0120 -->

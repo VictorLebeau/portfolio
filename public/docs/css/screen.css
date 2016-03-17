@@ -1,0 +1,191 @@
+@font-face {
+ font-family: 'linlibertine';
+ src: url('linlibertine_dr-webfont.eot');
+ src: url('linlibertine_dr-webfont.eot?#iefix') format('embedded-opentype'),
+ url('linlibertine_dr-webfont.woff') format('woff'),
+ url('linlibertine_dr-webfont.ttf') format('truetype'),
+ url('linlibertine_dr-webfont.svg#FontName') format('svg');
+ font-weight: normal;
+ font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'interval';
+    src: url('interval-webfont.eot');
+    src: url('interval-webfont.eot?#iefix') format('embedded-opentype'),
+         url('interval-webfont.woff') format('woff'),
+         url('interval-webfont.ttf') format('truetype'),
+         url('interval-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Colours */
+
+
+body {  color: black; overflow-x: hidden; margin:0%; padding:0%;}
+a { color: black; background-color: transparent;}
+span.date { color: blue; font-family: 'interval', courier, monospace; font-size: 1em; /*letter-spacing: 0.009em;*/}
+a { text-decoration: none; font-size: 3em; margin: 0px; font-weight: normal;}
+a.name { text-decoration: none; font-size: 180%; margin: 0px; font-weight: normal; letter-spacing: 0.02em;}
+#titre a { text-decoration:none; font-size: 3em;  ; margin: 0px; font-weight: normal; letter-spacing: 0.02em; /*line-height:1.4em;*/}
+div#titre ul li { list-style-type: none; white-space: nowrap; border: 1px solid white;}
+div#titre ul li:hover {border: 1px dotted #d0d0d0;}
+div#titre ul li.selected {background-color:yellow; border: 1px dotted #d0d0d0;}
+div#titre ul li.selected span.date {font-family:'interval'; color:black;}
+/*ul {display: block; list-style-type: disc; -webkit-margin-before: 0em; -webkit-margin-after: 0em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; -webkit-padding-start: 0px;}*/
+
+#nextPage {}
+#prevPage { margin-bottom: 8px}
+
+
+/* Typography */
+
+body { font-family: 'linlibertine', times, serif; line-height: 1.3; color: black; }
+ul li, p, div.description { font-size: 1em; font-style: normal; text-align: left;}
+a { text-decoration: none; }
+p#project-count, p#gallery-count { text-align: right; }
+p#gallery-count span { letter-spacing: 0.2em; }
+
+/* Layout */
+
+div#container { width: 60%; text-align:left; position:absolute;}
+#container {padding:0%; margin-left: 25%; margin-top: 8%;}
+
+.col { float: left; margin: 0px 0px 0px 0.4%; padding: 0px;}
+.two { width: 17.8%; }
+.six { width: 54.04%; }
+.seven { width: 63.1%; }
+.twelve { width: 100%; }
+
+p { margin: 0px 0px 0px 0px; }
+
+ul li { margin: 0px 0px 0px; }
+ul#navigation, ul.projects { list-style: none; padding: 0px; margin: 0px; }
+ul#navigation li, ul.projects li { clear: both; display:-webkit-inline-box;}
+ul#navigation ol { display: none; margin: 0px; padding: 0px 0px 0px 0px; }
+div#media img { margin: 0px 0px 0px; }
+p#project-count, p#gallery-count { margin: 0em 0em 0em 0em; }
+
+.info {display: block; font-family: 'interval',courier, monospace; color: black; font-size: 0.8em; cursor: default;}
+.info a {font-family: 'linlibertine',serif, times; font-size: 1.2em;}
+.info #gallery-count span { font-size: 0.9em}
+p#gallery-count, div#gallery-navigation { display: block; float: left; display:inline;}  /* displays next or previous image*/
+p#gallery-count span { margin: 0px 0px 0px 0px; display: block; display:inline;}
+
+img {height:104%; width:100%;}
+
+.nike {width:60%; height: auto; margin-left:20%; margin-top:1.2%; position:absolute; overflow: hidden; }
+.nike:hover {cursor: move;}
+.navigation {font-family: 'linlibertine', Times, Serif; position: relative;}
+.navigation a:hover {color:blue;}
+
+.menu {
+	font-family: 'interval', courier, monospace;
+	font-size: 0.85em;
+	background-color: white;
+	position: absolute;
+	width: 20%;
+	height:auto;
+	margin-left: 70%;
+	margin-top: 15%;
+	padding-bottom: 1%;
+	z-index:4;
+	color: black;
+	border: solid 0.1em black;
+	text-align: left;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+}
+
+.menu:hover {cursor: move;}
+.menu a {font-size: 1em; color: blue;}
+.menu a:hover {background-color: black; color: white;}
+
+
+#togglebut {
+	font-family: 'interval',monospace, courier;
+	font-size: 1.3em;
+	color: blue;
+}
+
+.close {
+	font-size: 25px;
+	margin-left: 95%;
+	position: absolute;	
+}
+
+.close:hover {font-size: 25px; color:blue; float:right; margin-right: 4%; color:blue; position: absolute;}
+
+.mito {font-family: 'linlibertine', times, serif; display: block; padding-right: 3%; padding-left: 2%;}
+
+div#image-wrapper { overflow: hidden; width:100%; border: solid black 1px;}
+div#image-wrapper div#image-holder { width: 10000%;}
+div#image-wrapper div#image-holder div.image {float: left; width:1%;}
+
+img.project-thumb { padding: 0px 0px 0px 0px; display: none; }
+
+.iframe-responsive-wrapper        {
+    position: relative;
+}
+
+.iframe-responsive-wrapper .iframe-ratio {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.iframe-responsive-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+body.js-enabled p#gallery-count, body.js-enabled div#gallery-navigation { display: block; }
+body.js-enabled p#project-count { display: none; }
+body.js-enabled div#media div.image { display: none; }
+body.js-enabled div#media div.image:first-child { display: block; }
+/*///// PERSO  mobile//////*/
+
+
+@media only screen and  (min-device-width : 320px) and (max-device-width : 640px) {
+
+body{overflow-y: scroll; -webkit-overflow-scrolling: touch;}
+
+span.date { color:blue; font-size: 0.62em; letter-spacing: 0.03em; }
+div#titre li { display: block; white-space: nowrap;}
+.col {margin-left: 2%;}
+.nike { width: 100%; height: auto; 	margin-left:0%; margin-top:4%;}
+.nike {cursor: move; background-color: black;}
+
+.info a {font-size: 1.5em; margin-left:4%;}
+p#gallery-count { font-size:1.3em;}
+.info {background-color:black;}
+
+.menu {
+	font-family: 'interval', courier, monospace;
+	background-color: white;
+	position: absolute;
+	width: 60%;
+	height:auto;
+	margin-left: 28%;
+	margin-top: 67%;
+	padding-bottom: 1%;
+	z-index:1;
+	color: black;
+	border: solid 0.1em black;
+	text-align: left;
+	padding-left: 2%;
+}
+
+#container {margin-left:15%;}
+.image { float:center;}
+ul {width: 40%;display:block;}
+
+
+

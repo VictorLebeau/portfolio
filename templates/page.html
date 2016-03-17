@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=640">
+    <title>@name's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
+    <link rel="stylesheet" href="@root_path/public/docs/css/screen.css" type="text/css" media="screen">
+    <link rel="icon" type="image/png" href="@root_path/public/favicon.png">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+  
+  
+
+  </head>
+  <body>
+
+    
+ 
+    <div id="container">
+       <div id="content">:category-lists</div>
+       </br></br></br>
+       <div class="navigation">:navigation</div>
+    </div>
+
+
+      <div class="menu">
+
+        </br>
+        <p><span id="togglebut">-</span><span>&#8239;</span>@title</p>
+
+      <div class="mito"></br>@content<p>:pdfs<p>
+        </br>
+      </div>
+    </div>
+
+
+      
+      <div class="nike">
+
+        <div class="info"><span class="close">✘</span>
+          <div class="six">  
+            if $siblings do
+            :next-page
+            :previous-page
+          </br>
+            endif
+            <p id="gallery-count">Image N°<span>1/1</span></p></br></br>
+
+
+          </div>        
+        </div>
+      
+        <div id="content" class="twelve">
+          :media
+
+        </div>
+      </div>
+    
+
+
+
+
+  
+  <script type="text/javascript" charset="utf-8">
+         document.getElementsByTagName('body')[0].className += ' js-enabled';
+  </script>
+  <script src="@root_path/public/docs/js/category-lists.js" type="text/javascript" charset="utf-8"></script>
+  <script src="@root_path/public/docs/js/gallery.js" type="text/javascript" charset="utf-8"></script>
+  <script src="@root_path/public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" src="@root_path/public/docs/js/script.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+  <script type="text/javascript" src="http://www.pureexample.com/js/lib/jquery.ui.touch-punch.min.js"></script>
+  </body>
+</html>
+

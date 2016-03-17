@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=640">
+    <title>Victor Lebeau's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+    <link rel="icon" type="image/png" href="./public/favicon.png">
+    
+
+
+  </head>
+  
+  <body>
+
+   
+    
+
+    <div id="container">
+       <div id="content"><div id="titre">
+<ul>
+  <li>&nbsp;&nbsp;<a href="./projects/Ping/">Ping</a><span class="date">&#12288;2014, Juin–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/aug-part/">Share & Increment</a><span class="date">&#12288;2014, June–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/groupware/">Groupware</a><span class="date">&#12288;2014, June–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/lgm/">LGM 2014</a><span class="date">&#12288;2014, April–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/gov'jamP/">Political Fiction</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/gov'jam/">Gov’Jam</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/unity/">Unity</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/cv/">Resumes for slums</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/vj14/">VJ14</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/conviviaux/">Convivial projects</a><span class="date">&#12288;2014, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/colleuse/">Encyclopedia</a><span class="date">&#12288;2013, January–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/orage/">Orage</a><span class="date">&#12288;2012, March–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/robert/">Practice + Critic</a><span class="date">&#12288;2012, May–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/resto/">Lagagne</a><span class="date">&#12288;2012, February–</span></li>&#8193;&#8193;&#8193;
+    <li>&nbsp;&nbsp;<a href="./projects/metroscope/">Métroscope</a><span class="date">&#12288;2010, October–</span></li>&#8193;&#8193;&#8193;
+  
+</ul>
+</div></div>
+     </br></br></br>
+       <div class="navigation"><a class="name" style="cursor:default;">Victor Lebeau</a></br><p style="font-family: 'interval', courier, monospace; color: blue; font-size:0.88em;">Graphic Designer</p>
+</br>
+
+<ul id="navigation">
+      <li>
+      <a href="./projects/"></a>
+        <ol class="children">
+      <li>
+      <a href="./projects/Ping/">Ping</a>
+      
+    </li>
+      <li>
+      <a href="./projects/aug-part/">Aug Part</a>
+      
+    </li>
+      <li>
+      <a href="./projects/groupware/">Groupware</a>
+      
+    </li>
+      <li>
+      <a href="./projects/lgm/">Lgm</a>
+      
+    </li>
+      <li>
+      <a href="./projects/gov'jamP/">Gov'jamP</a>
+      
+    </li>
+      <li>
+      <a href="./projects/gov'jam/">Gov'jam</a>
+      
+    </li>
+      <li>
+      <a href="./projects/unity/">Unity</a>
+      
+    </li>
+      <li>
+      <a href="./projects/cv/">Cv</a>
+      
+    </li>
+      <li>
+      <a href="./projects/vj14/">Vj14</a>
+      
+    </li>
+      <li>
+      <a href="./projects/conviviaux/">Conviviaux</a>
+      
+    </li>
+      <li>
+      <a href="./projects/colleuse/">Colleuse</a>
+      
+    </li>
+      <li>
+      <a href="./projects/orage/">Orage</a>
+      
+    </li>
+      <li>
+      <a href="./projects/robert/">Robert</a>
+      
+    </li>
+      <li>
+      <a href="./projects/resto/">Resto</a>
+      
+    </li>
+      <li>
+      <a href="./projects/metroscope/">Metroscope</a>
+      
+    </li>
+  
+  </ol>
+
+      <li>
+      <a href="./about/">About&nbsp;&nbsp;&nbsp;</a>
+      
+      <li>
+      <a href="./contact-me/">Contact details&nbsp;&nbsp;&nbsp;</a>
+      
+  
+</li><a href="content/01.pdf" target="_blank">Curriculum vitae</a>
+</ul>
+</div>
+    </div>
+
+
+
+  
+  
+  </body>
+  <script type="text/javascript" charset="utf-8">
+      document.getElementsByTagName('body')[0].className += ' js-enabled';
+    </script>
+
+</html>
+<!-- Stacey(2.3.0): 3d8f773dbfb8fd0fc7a3ef21ad11927e -->

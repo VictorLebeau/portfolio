@@ -1,0 +1,18 @@
+title: Unity
+-
+date: 2014, January–
+-
+content: 
+Why couldn't we use a bus shelter as a web-wall&#8239;?
+While waiting for our bus, we could share images, texts and posts on it. It's about the users to feed the wall by sending their propositions.
+
+<br> 
+You just need to get to the bus shelter, connect your device and send your publication. By default, the tool scrolls all the posts as a panorama. But the public can interact with this tactile wall by surfing in the publications.
+
+<br>Project for the workshop&#8239;:&#8239;Unity, divert a video game engine.
+
+<br>[Visit the website](http://site117755-6171-5341.strikingly.com/)
+
+<br>Project by [Sarah Garcin](http://sarahgarcin.com) and Victor Lebeau
+
+<br>Tutors&#8239;:&#8239;[Vadim Bernard](http://depli-ds.com/), Rémy Bourganel, [Ferdinand Dervieux](http://ferdinanddervieux.com/).

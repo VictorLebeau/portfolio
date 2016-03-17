@@ -1,0 +1,12 @@
+title: Share & Increment
+-
+date: 2014, June–
+-
+content: 
+A blog that gathers the researches of our diploma project.
+
+<br>[Visit the website](http://augmenter-partager.victor-lebeau.com/)
+
+<br>
+Project by [Sarah Garcin](http://sarahgarcin.com/) and Victor Lebeau.
+-

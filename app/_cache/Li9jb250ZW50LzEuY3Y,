@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=640">
+    <title>Curriculum Vitae&nbsp;&nbsp;&nbsp;, Victor Lebeau's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/info.css" type="text/css" media="screen">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <link rel="icon" type="image/png" href="./public/favicon.png">
+
+
+  </head>
+  <body>    
+    <iframe src="./content/1.cv/01.pdf"></iframe>
+</div>
+  </body>
+</html>
+
+
+
+<!-- Stacey(2.3.0): 6093f78516893e0c6619b2ed3d351e63 -->

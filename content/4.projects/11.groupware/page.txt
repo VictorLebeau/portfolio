@@ -1,0 +1,13 @@
+title: Groupware
+-
+date: 2014, June–
+-
+content: 
+A state of the art about collaborative writing tools. 
+[Visit the website](http://blog.sarahgarcin.com/champ)
+
+<br>
+Project by [Sarah Garcin](http://sarahgarcin.com/) and Victor Lebeau.
+-
+
+

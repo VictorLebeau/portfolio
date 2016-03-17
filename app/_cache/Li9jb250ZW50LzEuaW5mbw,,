@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=640">
+    <title>About, Victor Lebeau's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/info.css" type="text/css" media="screen">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <link rel="icon" type="image/png" href="./public/favicon.png">
+
+
+  </head>
+  <body>
+
+    
+    <div class="navigation col">Partial 'navigation2' not found</div>
+
+    <div id="container">
+        <div id="content" class="col eight"> <p class="date col one"></p>
+          <h2 class="col six"><a href="./">Home &#8592;</a></h2>
+        </br>
+        </br>
+        <div class="description col ten">
+            </br>
+          <h2>About</h2>
+          
+          <p></br></p>
+
+<p>Content managed by <a href="http://www.staceyapp.com/">Stacey CMS</a>
+made by <a href="https://github.com/kolber">Anthony Kolber</a>
+</br></br>
+Typefaces:</br>
+    Serif : <a href="http://usemodify.com/fonts/linux-libertine/">Linux Libertine</a></br>
+    Monospaced, fixed-pitch, or fixed-width: <a href="http://usemodify.com/fonts/interval/">Interval</a> designed by <a href="http://www.alexchavot.fr/">Alex Chavot</a></p>
+
+          
+        </div>
+    </div>
+
+      <hr>
+      
+    </div>
+
+  </body>
+      <script type="text/javascript" charset="utf-8">
+         document.getElementsByTagName('body')[0].className += ' js-enabled';
+  </script>
+
+  <script src="./public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
+</html>
+
+
+
+<!-- Stacey(2.3.0): 4d637acb1c33ca3afd5367776bda2d19 -->

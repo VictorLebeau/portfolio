@@ -1,0 +1,10 @@
+title: About&nbsp;&nbsp;&nbsp;
+-
+content:</br>
+
+Content managed by [Stacey CMS](http://www.staceyapp.com/)
+made by [Anthony Kolber](https://github.com/kolber)
+</br></br>
+Typefaces:</br>
+	Serif : [Linux Libertine](http://usemodify.com/fonts/linux-libertine/)</br>
+	Monospaced, fixed-pitch, or fixed-width: [Interval](http://usemodify.com/fonts/interval/) designed by [Alex Chavot](http://www.alexchavot.fr/)

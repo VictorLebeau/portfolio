@@ -1,0 +1,15 @@
+title: Contact details&nbsp;&nbsp;&nbsp;
+-
+content:</br>
+[contact@victor-lebeau.com](mailto:contact@victor-lebeau.com)</br>
+Born January the 27th 1990
+
+Phone : +33 6 08 18 81 23
+
+
+5 rue Bachelet 75018 Paris
+
+
+
+</br>
+<iframe src='http://lite4.framapad.org/p/OJXW4YZAJb?showChat=false&showLineNumbers=false' width=600 height=400></iframe>

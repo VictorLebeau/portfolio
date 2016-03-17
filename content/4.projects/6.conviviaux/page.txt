@@ -1,0 +1,13 @@
+title: Convivial projects
+-
+date: 2014, January–
+-
+content: 
+This website is an overview of works that we call "convivials". This is the first step of our diploma project for EnsAD dedicated to open-source practices in the graphic design field. It presents projects and tools through a system of filters : Tool Creation/ Increment, document sharing, source sharing, collaboration creation, use of open-source softwares.
+
+<br>
+[Visit this website](http://etat.augmenter-partager.ensad.fr/) (English)
+
+<br>
+Project by [Sarah Garcin](http://sarahgarcin.com/) and Victor Lebeau.
+

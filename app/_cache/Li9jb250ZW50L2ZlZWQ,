@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Victor Lebeau's Portfolio Feed</title>
+  <subtitle>Graphic Designer</subtitle>
+  <link href="http://victor-lebeau.com/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://victor-lebeau.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2015-05-28T06:34:15+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Victor Lebeau</name>
+    <uri>http://victor-lebeau.com</uri>
+  </author>
+
+  <id>tag:victor-lebeau.com,2015:/feed/</id>
+  <rights>©2015 Victor Lebeau</rights>
+    <entry>
+   <title></title>
+   <id>tag:victor-lebeau.com,2015:/projects/</id>
+   <updated>2015-05-02T01:26:58+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Iñtërnâtiônàlizætiøn</p>
+
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Ping</title>
+   <id>tag:victor-lebeau.com,2015:/projects/Ping/</id>
+   <updated>2015-05-02T01:28:58+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/Ping/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/13.Ping/03.jpg" alt="03." />
+  <img src="./content/4.projects/13.Ping/02.jpg" alt="02." />
+
+          
+            <p>After several researches, Sarah Garcin and I confirmed our desire to create a tool for collaborative writing and knowledge sharing.
+We focused on one of the key writing practices&#38;#8239;:&#38;#8239;note taking.
+While note taking, everyone transcripts, in a shorten way, the orator spoken language.
+We could pull our efforts together. But how could we mutualize, in real-time, note taking ?
+Our tool's main goal is to allow a personal note taking and, in the same time, a visualisation of the other contributors's notes. This mutualisation produces an online document upgraded by everyone's work.
+It is through experimentations and a pragmatic approach that we designed and prototyped our collaborative tool&#38;#8239;:&#38;#8239;Ping.</p>
+
+<p><br />Visit the <a href="http://c.sarahgarcin.com/">documentation website</a> and/or <a href="http://b.sarahgarcin.com/">the plate-forme website</a>.</p>
+
+<p><br />Projet by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+<p><br />Tutors&#38;#8239;:&#38;#8239;<a href="http://www.ensad.fr/enseignants/cozzolino-francesca">Francesca Cozzolino</a>, <a href="http://depli-ds.com/">Vadim Bernard</a>, <a href="http://ruedi-baur.eu/">Ruedi Baur</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Share &#38; Increment</title>
+   <id>tag:victor-lebeau.com,2015:/projects/aug-part/</id>
+   <updated>2015-05-02T01:28:38+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/aug-part/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/12.aug-part/02.jpg" alt="02." />
+
+          
+            <p>A blog that gathers the researches of our diploma project.</p>
+
+<p><br /><a href="http://augmenter-partager.victor-lebeau.com/">Visit the website</a></p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Groupware</title>
+   <id>tag:victor-lebeau.com,2015:/projects/groupware/</id>
+   <updated>2015-05-02T01:28:25+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/groupware/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/11.groupware/01.jpg" alt="01." />
+
+          
+            <p>A state of the art about collaborative writing tools. 
+<a href="http://blog.sarahgarcin.com/champ">Visit the website</a></p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>LGM 2014</title>
+   <id>tag:victor-lebeau.com,2015:/projects/lgm/</id>
+   <updated>2015-05-02T01:28:12+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/lgm/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/10.lgm/01.jpg" alt="01." />
+
+          
+            <p>Documentation of the Libre Graphic Meeting 2014 in Leipzig.
+<br /><a href="http://blog.victor-lebeau.com/">Visit the website</a></p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Political Fiction</title>
+   <id>tag:victor-lebeau.com,2015:/projects/gov'jamP/</id>
+   <updated>2015-05-02T01:28:01+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/gov'jamP/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Introduction for the workshop&#38;#8239;:&#38;#8239;Gov'Jam, a political fiction, organized by <a href="http://robinbantigny.com/index.html">Robin Bantigny</a>, Mehdi Vilquin and <a href="http://jeremierentien.com/">Jérémie Rentien</a>.</p>
+
+<p><br />
+Project by Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Gov’Jam</title>
+   <id>tag:victor-lebeau.com,2015:/projects/gov'jam/</id>
+   <updated>2015-05-02T01:31:43+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/gov'jam/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/9.gov'jam/01.jpg" alt="01." />
+
+          
+            <p>A speech retranscription as a web publication of Sarah Garcin and Victor Lebeau's intervention during the workshop&#38;#8239;:&#38;#8239;Gov'Jam, a political fiction, organized by <a href="http://robinbantigny.com/index.html">Robin Bantigny</a>, Mehdi Vilquin and <a href="http://jeremierentien.com/">Jérémie Rentien</a>.</p>
+
+<p><br /><a href="http://sarahgarcin.com/govjam/" title="Gov’jam">Visit the website</a>.</p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Unity</title>
+   <id>tag:victor-lebeau.com,2015:/projects/unity/</id>
+   <updated>2015-05-02T01:31:25+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/unity/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/8.unity/06.jpg" alt="06." />
+  <img src="./content/4.projects/8.unity/05.jpg" alt="05." />
+  <img src="./content/4.projects/8.unity/04.jpg" alt="04." />
+  <img src="./content/4.projects/8.unity/03.jpg" alt="03." />
+
+          
+            <p>Why couldn't we use a bus shelter as a web-wall&#38;#8239;?
+While waiting for our bus, we could share images, texts and posts on it. It's about the users to feed the wall by sending their propositions.</p>
+
+<p><br /> 
+You just need to get to the bus shelter, connect your device and send your publication. By default, the tool scrolls all the posts as a panorama. But the public can interact with this tactile wall by surfing in the publications.</p>
+
+<p><br />Project for the workshop&#38;#8239;:&#38;#8239;Unity, divert a video game engine.</p>
+
+<p><br /><a href="http://site117755-6171-5341.strikingly.com/">Visit the website</a></p>
+
+<p><br />Project by <a href="http://sarahgarcin.com">Sarah Garcin</a> and Victor Lebeau</p>
+
+<p><br />Tutors&#38;#8239;:&#38;#8239;<a href="http://depli-ds.com/">Vadim Bernard</a>, Rémy Bourganel, <a href="http://ferdinanddervieux.com/">Ferdinand Dervieux</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Resumes for slums</title>
+   <id>tag:victor-lebeau.com,2015:/projects/cv/</id>
+   <updated>2015-05-02T01:31:13+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/cv/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/8.cv/02.jpg" alt="02." />
+  <img src="./content/4.projects/8.cv/01.jpg" alt="01." />
+  <img src="./content/4.projects/8.cv/00.gif" alt="00." />
+
+          
+            <p>During the workshop "resumes for slums", Sarah Garcin and I created a form to make resumes's creation easy.</p>
+
+<p><br /><a href="http://sarahgarcin.com/cv/cv_homme.html">Visit this website</a></p>
+
+<p><br />Project by <a href="http://sarahgarcin.com">Sarah Garcin</a> and Victor Lebeau</p>
+
+<p><br />Tutors&#38;#8239;:&#38;#8239;<a href="http://www.ensad.fr/enseignants/cozzolino-francesca">Francesca Cozzolino</a>, <a href="http://ruedi-baur.eu/">Ruedi Baur</a>, Sébastien Thiéry and the volunteers of the PEROU association.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>VJ14</title>
+   <id>tag:victor-lebeau.com,2015:/projects/vj14/</id>
+   <updated>2015-05-02T01:31:08+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/vj14/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/7.vj14/01.jpg" alt="01." />
+
+          
+            <p>Visit of the <a href="http://vj14.constantvzw.org/">VJ14 festival</a> organized by the <a href="http://constantvzw.org/">Constant</a> association in Brussels.</p>
+
+<p><br /><a href="http://vj14.victor-lebeau.com/">Visit the website</a>.</p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Convivial projects</title>
+   <id>tag:victor-lebeau.com,2015:/projects/conviviaux/</id>
+   <updated>2015-05-02T01:31:06+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/conviviaux/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/6.conviviaux/01.jpg" alt="01." />
+
+          
+            <p>This website is an overview of works that we call "convivials". This is the first step of our diploma project for EnsAD dedicated to open-source practices in the graphic design field. It presents projects and tools through a system of filters : Tool Creation/ Increment, document sharing, source sharing, collaboration creation, use of open-source softwares.</p>
+
+<p><br />
+<a href="http://etat.augmenter-partager.ensad.fr/">Visit this website</a> (English)</p>
+
+<p><br />
+Project by <a href="http://sarahgarcin.com/">Sarah Garcin</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Encyclopedia</title>
+   <id>tag:victor-lebeau.com,2015:/projects/colleuse/</id>
+   <updated>2015-05-02T01:30:56+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/colleuse/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/4.colleuse/09.jpg" alt="09." />
+  <img src="./content/4.projects/4.colleuse/06.jpg" alt="06." />
+  <img src="./content/4.projects/4.colleuse/05.jpg" alt="05." />
+  <img src="./content/4.projects/4.colleuse/04.jpg" alt="04." />
+  <img src="./content/4.projects/4.colleuse/03.jpg" alt="03." />
+  <img src="./content/4.projects/4.colleuse/02.jpg" alt="02." />
+  <img src="./content/4.projects/4.colleuse/01.jpg" alt="01." />
+  <img src="./content/4.projects/4.colleuse/01a.jpg" alt="01a." />
+  <img src="./content/4.projects/4.colleuse/00a.jpg" alt="00a." />
+  <img src="./content/4.projects/4.colleuse/00.jpg" alt="00." />
+
+          
+            <p>Encyclopedia of the editing splicer, published as video for smartphones.</p>
+
+<p><br />
+Project by Victor Lebeau.
+<br />
+Tutor&#38;#8239;:&#38;#8239;Phillipe Millot</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Orage</title>
+   <id>tag:victor-lebeau.com,2015:/projects/orage/</id>
+   <updated>2015-05-02T01:30:13+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/orage/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/3.orage/01.gif" alt="01." />
+
+          
+            <p><a href="https://vimeo.com/42162439">Orage</a>'s poster and credits. A film by Joseph Minster student at La Fémis (French state film school).</p>
+
+<p><br />
+Project by <a href="http://julesvaulont.tumblr.com/">Jules Vaulont</a> and Victor Lebeau.</p>
+
+<p><br />
+Tutors&#38;#8239;:&#38;#8239;Philippe Millot and Gérard Plénacoste</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Practice + Critic</title>
+   <id>tag:victor-lebeau.com,2015:/projects/robert/</id>
+   <updated>2015-05-02T01:29:58+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/robert/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/2.robert/05.gif" alt="05." />
+  <img src="./content/4.projects/2.robert/04.gif" alt="04." />
+  <img src="./content/4.projects/2.robert/03.jpg" alt="03." />
+  <img src="./content/4.projects/2.robert/02.jpg" alt="02." />
+  <img src="./content/4.projects/2.robert/01.gif" alt="01." />
+
+          
+            <p>Poster N°3 of the <a href="http://pratiquepluscritique.ensad.fr/">Practice + Critic</a> course of lectures, organized by Catherine de Smet and Philippe Millot, for Emily King's speech&#38;#8239;:&#38;#8239;Robert Brownjohn, Sex &#38;amp; Typography.</p>
+
+<p><br />
+Project by <a href="http://www.coralinemasprevost.fr/">Coraline Mas-Prevost</a>, <a href="http://robinbantigny.com/index.html">Robin Bantigny</a> and Victor Lebeau.</p>
+
+<p><br />
+Tutors&#38;#8239;:&#38;#8239;Philippe Millot and Gérard Plénacoste</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Lagagne</title>
+   <id>tag:victor-lebeau.com,2015:/projects/resto/</id>
+   <updated>2015-05-02T01:27:55+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/resto/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/1.resto/10.jpg" alt="10." />
+  <img src="./content/4.projects/1.resto/09.jpg" alt="09." />
+  <img src="./content/4.projects/1.resto/08.jpg" alt="08." />
+  <img src="./content/4.projects/1.resto/06.jpg" alt="06." />
+  <img src="./content/4.projects/1.resto/04.jpg" alt="04." />
+  <img src="./content/4.projects/1.resto/03.jpg" alt="03." />
+
+          
+            <p>A restoration company proposal for the interior design and branding.</p>
+
+<p><br />
+Project by <a href="http://www.destinationeurope.info/">Diane Rabreau</a>, Louis Donnot, Raphael John, Mehdi Vilquin, <a href="http://robinbantigny.com/index.html">Robin Bantigny</a> and Victor Lebeau.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Métroscope</title>
+   <id>tag:victor-lebeau.com,2015:/projects/metroscope/</id>
+   <updated>2015-05-02T01:31:02+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/projects/metroscope/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/0.metroscope/06.jpg" alt="06." />
+  <img src="./content/4.projects/0.metroscope/05.jpg" alt="05." />
+  <img src="./content/4.projects/0.metroscope/04.jpg" alt="04." />
+  <img src="./content/4.projects/0.metroscope/03.jpg" alt="03." />
+  <img src="./content/4.projects/0.metroscope/02.jpg" alt="02." />
+  <img src="./content/4.projects/0.metroscope/01.jpg" alt="01." />
+
+          
+            <p>For the artistic event La Nuit blanche, in 2010, in Paris a group of students of Ensad had the chance to create an event in the abandoned subway station Saint-Martin. We created costumes and postures that remain letters from the word "Saint-Martin".</p>
+
+<p><br />
+<a href="http://metroscope.ensad.fr/">Visit the website</a></p>
+
+<p><br />
+Tutor&#38;#8239;:&#38;#8239;<a href="http://c-album.fr/">Laurent Ungerer</a><br />
+Photograph by <a href="http://gonzale.net/">Charlotte Gonzalez</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>About&#38;nbsp;&#38;nbsp;&#38;nbsp;</title>
+   <id>tag:victor-lebeau.com,2015:/about/</id>
+   <updated>2015-05-02T01:26:57+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p></br></p>
+
+<p>Content managed by <a href="http://www.staceyapp.com/">Stacey CMS</a>
+made by <a href="https://github.com/kolber">Anthony Kolber</a>
+</br></br>
+Typefaces:</br>
+    Serif : <a href="http://usemodify.com/fonts/linux-libertine/">Linux Libertine</a></br>
+    Monospaced, fixed-pitch, or fixed-width: <a href="http://usemodify.com/fonts/interval/">Interval</a> designed by <a href="http://www.alexchavot.fr/">Alex Chavot</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Contact details&#38;nbsp;&#38;nbsp;&#38;nbsp;</title>
+   <id>tag:victor-lebeau.com,2015:/contact-me/</id>
+   <updated>2015-05-02T01:26:57+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://victor-lebeau.com/contact-me/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p></br>
+<a href="mailto:contact@victor-lebeau.com">contact@victor-lebeau.com</a></br>
+Born January the 27th 1990</p>
+
+<p>Phone : +33 6 08 18 81 23</p>
+
+<p>5 rue Bachelet 75018 Paris</p>
+
+<p></br></p>
+
+<iframe src='http://lite4.framapad.org/p/OJXW4YZAJb?showChat=false&#38;showLineNumbers=false' width=600 height=400></iframe>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.3.0): 83f4b6448731da701119bf02043c559e -->

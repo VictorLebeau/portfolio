@@ -1,0 +1,18 @@
+title: Ping
+-
+date: 2014, Juin–
+-
+content:
+After several researches, Sarah Garcin and I confirmed our desire to create a tool for collaborative writing and knowledge sharing.
+We focused on one of the key writing practices&#8239;:&#8239;note taking.
+While note taking, everyone transcripts, in a shorten way, the orator spoken language.
+We could pull our efforts together. But how could we mutualize, in real-time, note taking ?
+Our tool's main goal is to allow a personal note taking and, in the same time, a visualisation of the other contributors's notes. This mutualisation produces an online document upgraded by everyone's work.
+It is through experimentations and a pragmatic approach that we designed and prototyped our collaborative tool&#8239;:&#8239;Ping.
+
+<br>Visit the [documentation website](http://c.sarahgarcin.com/) and/or [the plate-forme website](http://b.sarahgarcin.com/).
+
+<br>Projet by [Sarah Garcin](http://sarahgarcin.com/) and Victor Lebeau.
+
+<br>Tutors&#8239;:&#8239;[Francesca Cozzolino](http://www.ensad.fr/enseignants/cozzolino-francesca), [Vadim Bernard](http://depli-ds.com/), [Ruedi Baur](http://ruedi-baur.eu/).
+-
